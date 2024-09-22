@@ -10,9 +10,6 @@
 - **Interactive UI**: Slider functionality for both popular and featured vehicles to provide seamless navigation between different car models.
 - **Services Section**: Offers detailed descriptions of available car-related services like car insurance, battery repair, oil changes, and 24/7 customer support.
 
-
-## Project Structure
-
 # Technologies Used
 **HTML5**: For structuring the webpage.
 **CSS3**: For styling and layout, ensuring the website is responsive and visually appealing.
